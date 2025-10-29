@@ -1,0 +1,9 @@
+{
+  "file": "audio2.wav",
+  "engine": "faster-whisper",
+  "language": "ru",
+  "lang_prob": 0.9580078125,
+  "processing_time_s": 0.4143390655517578,
+  "audio_duration_s": 2.124,
+  "rtf": 0.19507488961947164
+}

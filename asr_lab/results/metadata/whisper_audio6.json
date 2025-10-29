@@ -1,0 +1,9 @@
+{
+  "file": "audio6.wav",
+  "engine": "faster-whisper",
+  "language": "ru",
+  "lang_prob": 0.9921875,
+  "processing_time_s": 0.4217047691345215,
+  "audio_duration_s": 4.896,
+  "rtf": 0.08613251003564573
+}
