@@ -1,0 +1,9 @@
+{
+  "file": "audio1.wav",
+  "engine": "whisper_noprompt",
+  "language": "ru",
+  "lang_prob": 0.9321679472923279,
+  "processing_time_s": 11.17116093635559,
+  "audio_duration_s": 5.0,
+  "rtf": 2.234232187271118
+}

@@ -1,0 +1,9 @@
+{
+  "file": "audio5.wav",
+  "engine": "whisper_prompt",
+  "language": "ru",
+  "lang_prob": 0.9807857871055603,
+  "processing_time_s": 17.48635768890381,
+  "audio_duration_s": 5.0,
+  "rtf": 3.4972715377807617
+}
